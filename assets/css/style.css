@@ -1,0 +1,22 @@
+.nav-bar {
+    border: 1px solid green;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#view-high-scores li {
+    border: 1px solid red;
+    list-style-type: none;
+}
+
+#quiz-timer {
+    border: 1px solid red;
+}
+
+main {
+    border: 1px solid blue;
+    display: flex;
+    justify-content:flex-start;
+    align-items: center;
+}
